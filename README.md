@@ -26,7 +26,7 @@ Walk away for 15-30 minutes.
 
 ## What it does NOT do
 
-- Sign you into Apple ID, iCloud, 1Password, Obsidian, Claude, Slack, or Sunsama
+- Sign you into Apple ID, iCloud, Bitwarden, Obsidian, Claude, or Slack
 - Install secrets or business-specific configs (those live in the private repo)
 - Configure git user/email (you do this manually after install)
 
